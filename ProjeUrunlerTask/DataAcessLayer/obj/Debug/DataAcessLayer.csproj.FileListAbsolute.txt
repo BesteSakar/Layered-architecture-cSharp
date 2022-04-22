@@ -1,0 +1,17 @@
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityLayer.dll
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CopyComplete
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.Migrations.migra2.resources
+C:\Users\beste\source\repos\ProjeUrunlerTask\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.GenerateResource.cache
